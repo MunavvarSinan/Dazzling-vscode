@@ -1,0 +1,21 @@
+{
+    "name": "dazzling",
+    "displayName": "dazzling",
+    "description": "dazzling dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dazzling Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dazzling Dark-color-theme.json"
+            }
+        ]
+    }
+}
