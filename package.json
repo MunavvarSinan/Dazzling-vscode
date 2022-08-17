@@ -3,6 +3,12 @@
     "displayName": "dazzling",
     "description": "dazzling dark",
     "version": "0.0.1",
+    "publisher": "Munavvarsinan",
+    "icon" : "Dazzling.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MunavvarSinan/Dazzling-vscode"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },

@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "dazling"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dazling Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Here is the VS Code theme that I customized for my use . I like dark themes so it's dark
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+I took inspiration from the [Coder Coder](https://github.com/thecodercoder/codercoder-dark-theme)
 
-**Enjoy!**
+💥 If you like this theme and would like to support me making cool stuff on here and YouTube, you can [sponsor me](https://github.com/sponsors/MunavvarSinan) on GitHub!
+
+Will be maintaining this as I have time
